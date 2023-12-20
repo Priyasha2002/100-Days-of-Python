@@ -1,2 +1,2 @@
-# 100-Days-of-Pytho
+# 100-Days-of-Python
 100 Projects in 100 Days
